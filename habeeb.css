@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    background-color: #0f96e4e5;
+    display: flex;
+    align-items: center;
+    justify-items: normal;
+    height: 100px;
+}
+ul{
+    display: flex;
+    list-style-type: none;
+    margin-left: 860px;
+    gap: 10px;
+}

@@ -1,0 +1,54 @@
+body{
+    font-family:'Times New Roman';
+   
+}
+nav{
+    background-color: #03033e;
+    display: flex;
+    position: static;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    width: 1310px;
+    height: 30px;
+    margin-top: 0px;
+}
+.h1{
+    color: #ffff04;
+    font-size: xx-large;
+}
+li{
+    text-decoration: none;
+    display: inline-flex;
+    padding: 10px;
+    color: antiquewhite;
+}
+.landing-screen{
+    width: full;
+    height: 500px;
+     background-color: grey;
+     display: flex;
+}
+.g{
+    background-color: black;
+    width: 50%;
+    height: 500px;
+}
+.h{
+    background-color: pink;
+    width: 50%;
+    height: 500px;
+}
+.tag-handler{
+    width: full;
+    height: 500px;
+     background-color: #860505;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+.hao{
+    background-color: skyblue;
+    width: 80%;
+    height: 200px;
+}

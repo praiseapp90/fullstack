@@ -1,0 +1,17 @@
+div{
+    padding: 20px;
+    margin: 50px;
+    border-radius: 20px;
+    border-color: navy;
+}
+     body{
+        background-color: antiquewhite;
+        color:#800006 ;
+    }
+    table{
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            border-collapse: collapse;
+    }
+            td,th{
+                    border: 1px solid purple;   
+            }
